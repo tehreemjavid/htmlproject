@@ -1,0 +1,28 @@
+body{
+
+    background-image: url("./spiration-light.png"); 
+    background-repeat: no-repeat; 
+    background-size: 100% 100%; 
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    
+
+}
+
+h1{
+    border: 2px solid black;
+    border-radius: 5px;
+
+    background-color: black;
+    color: white;
+    
+
+
+}
+
+
+h4{
+    border: 50px soild black;
+}
+.border{}
+
